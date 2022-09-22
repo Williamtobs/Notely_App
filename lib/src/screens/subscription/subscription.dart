@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:noteapp/src/screens/recent_note.dart';
 import 'package:noteapp/src/widgets/button.dart';
 
 class Subscription extends StatefulWidget {
@@ -120,9 +121,9 @@ class _SubscriptionState extends State<Subscription> {
             AppButton(
               text: 'SUBSCRIBE',
               onTap: () {
-                // Navigator.push(context, MaterialPageRoute(builder: (context) {
-                //   return const Subscription();
-                // }));
+                Navigator.push(context, MaterialPageRoute(builder: (context) {
+                  return const RecentNotes();
+                }));
               },
             ),
             const SizedBox(
