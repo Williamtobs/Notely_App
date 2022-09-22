@@ -2,5 +2,7 @@
 Week 2 Challenge with Czar
 
 
-https://user-images.githubusercontent.com/63688314/190455573-b5d8a718-b1bc-4e87-9f99-3f7c24170f5c.mp4
+Uploading Android Emulator - Pixel_4_API_32_5554 2022-09-22 10-52-00.mp4…
+
+
 
